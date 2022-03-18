@@ -61,7 +61,7 @@
   }
 
   .art-banner {
-    background-image: url(assets/img/nocolor.png);
+    background-image: url(assets/img/laptop.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -74,7 +74,7 @@
     opacity: 0;
     transition: 1.5s ease;
 
-    background-image: url(assets/img/color.png);
+    background-image: url(assets/img/laptop.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
